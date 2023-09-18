@@ -6,7 +6,6 @@ public class Turista {
 
     Turista() {}
 
-
     Turista(String _nome) {
         this.nome = _nome;
     }
